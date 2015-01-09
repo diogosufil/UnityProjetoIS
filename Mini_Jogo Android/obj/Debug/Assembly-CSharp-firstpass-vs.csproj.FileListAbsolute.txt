@@ -1,0 +1,12 @@
+C:\Users\Diogo Filipe\Desktop\Mini_Jogo Android\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Diogo Filipe\Desktop\Mini_Jogo Android\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Diogo Filipe\Desktop\Mini_Jogo Android\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Diogo Filipe\Desktop\Mini_Jogo Android\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Diogo Filipe\Desktop\Mini_Jogo Android\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Diogo Filipe\Desktop\Mini_Jogo Android\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Diogo Filipe\Desktop\Mini_Jogo Android\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Diogo Filipe\Desktop\Mini_Jogo Android\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Diogo Filipe\Desktop\Mini_Jogo Android\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Diogo Filipe\Desktop\Mini_Jogo Android\obj\Debug\Assembly-CSharp-firstpass-vs.csprojResolveAssemblyReference.cache
+C:\Users\Diogo Filipe\Desktop\Mini_Jogo Android\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Diogo Filipe\Desktop\Mini_Jogo Android\obj\Debug\Assembly-CSharp-firstpass.pdb
